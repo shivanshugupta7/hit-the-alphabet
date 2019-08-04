@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+position: absolute;
+left:450px;
+
+}
+
+canvas{
+    border: solid 1px black; 
+    background-color: orange;
+}
